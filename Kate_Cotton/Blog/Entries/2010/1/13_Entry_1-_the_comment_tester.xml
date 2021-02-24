@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="3455F753-04C6-469C-A141-BF772B1DCEB3">
+  <lastEdited clientType="local-build-20100113" date="2010-01-13 12:33:34 -0600"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>BLOGGIN</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Okay, so I am testing out how well iweb will work as a blog.  Probably not going to be my first choice as I will have to have my desktop computer when I want to write.  But here it is and I want to see if it is possible (and easy) for people to leave comments.  So here are some topics in case you need one.&#xD;	1.	 This winter is the coldest on record.  What have you had to deal with as a result?&#xD;	2.	Do you like it when other people wear perfume or does it make you sick?&#xD;	3.	What is your favorite TV show right now?</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Entry 1- the comment tester    </richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="13_Entry_1-_the_comment_tester_files/shapeimage_1.png" left="0px" top="0px" width="300px" height="225px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Wednesday, January 13, 2010</richText>
+  </textBox>
+</content>
